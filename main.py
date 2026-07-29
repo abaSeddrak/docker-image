@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.write("letk tbarkeny")
+st.write("letk tbarkeny tos3 t5omy")
